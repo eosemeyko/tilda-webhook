@@ -4,3 +4,9 @@
 
 # NPM
 /node_modules
+
+# Config
+/config/default.js
+
+# Projects upload
+/upload
