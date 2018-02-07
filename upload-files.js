@@ -4,8 +4,8 @@ const fs = require('fs'),
     request = require('request');
 
 // Services
-const Logs = require('../models/logs'),
-    api = require('../services/tilda');
+const Logs = require('./models/logs'),
+    api = require('./services/tilda');
 
 module.exports = {
     /**
